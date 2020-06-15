@@ -1,6 +1,5 @@
 ---
 title: "Hackpack - Birthday"
-excerpt_separator: "<!--more-->"
 categories:
   - HackPack
 tags:
