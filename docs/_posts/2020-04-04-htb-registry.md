@@ -8,8 +8,6 @@ tags:
 
 ![Registry](https://i.ibb.co/wBf0KtD/Capture.png)
 
-# Registry
-
 ## Nmap Scan
 
 ```

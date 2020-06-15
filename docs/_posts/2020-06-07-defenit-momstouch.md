@@ -6,8 +6,6 @@ tags:
   - DefenitCTF
 ---
 
-# MoM's Touch
-
 We're given a binary called momsTouch for this challenge. When we run this binary, we get the following message:
 
 ```
