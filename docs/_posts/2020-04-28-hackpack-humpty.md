@@ -1,9 +1,9 @@
 ---
 title: "HackPack: Humpty"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 We first need to connect to the machine with ssh:

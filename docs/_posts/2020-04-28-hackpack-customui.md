@@ -1,9 +1,9 @@
 ---
 title: "HackPack: Custom UI"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 

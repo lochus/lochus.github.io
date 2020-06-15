@@ -1,9 +1,9 @@
 ---
 title: "HackPack: Super Secret Vault"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "Hackpack - Birthday"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 Visiting https://online-birthday-party.cha.hackpack.club/account.php and signing up for a new account takes us to a page where we can see what other users share our birthday.

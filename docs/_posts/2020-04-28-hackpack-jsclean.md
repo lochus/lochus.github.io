@@ -1,9 +1,9 @@
 ---
 title: "HackPack: jsclean"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 

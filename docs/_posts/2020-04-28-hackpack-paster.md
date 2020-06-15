@@ -1,9 +1,9 @@
 ---
 title: "HackPack: Paster"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 

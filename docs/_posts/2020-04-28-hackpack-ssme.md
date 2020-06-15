@@ -1,9 +1,9 @@
 ---
 title: "HackPack: SSME"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 

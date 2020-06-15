@@ -1,9 +1,9 @@
 ---
 title: "HackPack: Quote of the Day"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "HackPack: Hacking USSR"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 

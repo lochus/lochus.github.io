@@ -1,9 +1,9 @@
 ---
 title: "HackPack: Treasure"
 categories:
-  - HackPack
+  - HackPackCTF
 tags:
-  - HackPack
+  - HackPackCTF
 ---
 
 
