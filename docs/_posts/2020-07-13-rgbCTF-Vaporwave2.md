@@ -6,11 +6,10 @@ tags:
   - rgbCTF
 ---
 
-"I got two versions. I got twooo versions…
+*I got two versions. I got twooo versions…*
 
-~Quintec#0689"
+*~Quintec#0689*
 
----
 
 For this challenge, we're given two files, vaporwave2a.flac and vaporwave2b.flag. Both files sound like the exact same song, so we'll use Audacity to find any hidden message:
 

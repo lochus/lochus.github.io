@@ -6,19 +6,18 @@ tags:
   - rgbCTF
 ---
 
-"I'll wait.
+*I'll wait.*
 
-The flag for this challenge is all the passwords in alphabetical order, each separated by a single white-space as an MD5 hash in lower case
+*The flag for this challenge is all the passwords in alphabetical order, each separated by a single white-space as an MD5 hash in lower case*
 
-md5(passwordA passwordB passwordC ...)
+*md5(passwordA passwordB passwordC ...)*
 
-Example: if the passwords were "dog" and "cat", the flag would be
-rgbCTF{md5("cat dog")}
-rgbCTF{b89526a82f7ec08c202c2345fbd6aef3}
+*Example: if the passwords were "dog" and "cat", the flag would be*
+*rgbCTF{md5("cat dog")}*
+*rgbCTF{b89526a82f7ec08c202c2345fbd6aef3}*
 
-~Klanec#3100"
+*~Klanec#3100*
 
----
 
 For this challenge, we're given a data.7z file, containing a file called "data". Running file against this file shows us that it's the following file type:
 
