@@ -1,5 +1,5 @@
 ---
-title: "rgbCTF - icanhaz"
+title: "rgbCTF: icanhaz"
 categories:
   - rgbCTF
 tags:
