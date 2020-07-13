@@ -6,11 +6,11 @@ tags:
   - rgbCTF
 ---
 
-*The flag is exactly as decoded. No curly brackets.*
+The flag is exactly as decoded. No curly brackets.
 
-*NOTE: keep the pound symbols as pound symbols!*
+NOTE: keep the pound symbols as pound symbols!
 
-*~BobbaTea#6235, Klanec#3100*
+~BobbaTea#6235, Klanec#3100
 
 
 For this challenge, we're given a file called hmm.mp3. When we listen to the file, we can hear keypad tones, like we would hear when hitting numbers on a telephone.
