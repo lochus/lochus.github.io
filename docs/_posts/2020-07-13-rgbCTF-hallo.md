@@ -1,5 +1,5 @@
 ---
-title: "rgbCTF - Hallo?"
+title: "rgbCTF: Hallo?"
 categories:
   - rgbCTF
 tags:
