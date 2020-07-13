@@ -1,5 +1,5 @@
 ---
-title: "rgbCTF - Name a more iconic band"
+title: "rgbCTF: Name a more iconic band"
 categories:
   - rgbCTF
 tags:
