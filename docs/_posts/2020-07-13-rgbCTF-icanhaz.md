@@ -6,9 +6,9 @@ tags:
   - rgbCTF
 ---
 
-*can u haz a meaningful career in cybersecurity tool development? we hope so!*
+"can u haz a meaningful career in cybersecurity tool development? we hope so!
 
-*~tonyz#2403*
+~tonyz#2403"
 
 ---
 

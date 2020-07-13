@@ -6,9 +6,9 @@ tags:
   - rgbCTF
 ---
 
-*I got two versions. I got twooo versions…*
+"I got two versions. I got twooo versions…
 
-*~Quintec#0689*
+~Quintec#0689"
 
 ---
 
