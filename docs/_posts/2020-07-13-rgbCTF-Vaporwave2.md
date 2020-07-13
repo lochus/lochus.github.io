@@ -1,5 +1,5 @@
 ---
-title: "rgbCTF - Vaporwave2"
+title: "rgbCTF: Vaporwave2"
 categories:
   - rgbCTF
 tags:
