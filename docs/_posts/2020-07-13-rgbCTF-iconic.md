@@ -6,7 +6,7 @@ tags:
   - rgbCTF
 ---
 
-"*I'll wait.*
+*I'll wait.*
 
 *The flag for this challenge is all the passwords in alphabetical order, each separated by a single white-space as an MD5 hash in lower case*
 
@@ -17,7 +17,7 @@ tags:
 *rgbCTF{b89526a82f7ec08c202c2345fbd6aef3}*
 
 
-*~Klanec#3100*"
+*~Klanec#3100*
 
 ---
 
