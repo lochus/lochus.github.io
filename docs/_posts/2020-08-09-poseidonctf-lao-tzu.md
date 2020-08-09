@@ -9,7 +9,9 @@ tags:
 # The Large Cherries
 
 In a time, where only bad people with large cherries existed. Lao-Tzu said 'the five colours make a man blind, the five tones make a man deaf, because if you can only see five colours, you’re blind, and if you can only hear five tones in music, you’re deaf
+
 nc poseidonchalls.westeurope.cloudapp.azure.com 9003
+
 Author : t0m7r00z
 
 ---
