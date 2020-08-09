@@ -318,7 +318,7 @@ $
 
 What worked on our end won't work against the server, meaning that the /home/ctf/magic_word.txt file probably either doesn't exist, or doesn't contain the string "nopassyo".
 
-We need to find a way to bypass this function, so we'll open up the binary in Ghidra and see exactly what it's doing with our first input:
+We need to find a way to pass something other than the string "nopassyo" to the server, but our input seems to be ignored. We'll open up the binary in Ghidra and see exactly what it's doing with our first input:
 
 main:
 ```
