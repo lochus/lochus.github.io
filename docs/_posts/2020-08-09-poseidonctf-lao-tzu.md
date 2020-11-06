@@ -66,7 +66,7 @@ Written 2 byte(s) (js 0xbd9) = wx 7816
 Cannot debug file (trace) with permissions set to 0x7.
 Reopening the original file in read-only mode.
 Process with PID 216834 started...
-File dbg:///home/anti/Downloads/trace  reopened in read-only mode
+File dbg:///home/skirmish/Downloads/trace  reopened in read-only mode
 = attach 216834 216834
 ```
 
@@ -84,7 +84,7 @@ We can see that the binary now continues its execution without exiting, but we d
 child received signal 9
 Process with PID 216850 started...
 = attach 216850 216850
-File dbg:///home/anti/Downloads/trace  reopened in read-write mode
+File dbg:///home/skirmish/Downloads/trace  reopened in read-write mode
 Unable to find filedescriptor 3
 Unable to find filedescriptor 4
 Unable to find filedescriptor 5
@@ -146,20 +146,20 @@ role reg     value            ref
 R0   rax     7ffe55aa68bd      ([stack]) stack R W 0x0 -->  0
      rbx     0                 0
 A3   rcx     0                 0
-A2   rdx     55f15af5409c      (/home/anti/Downloads/trace) (.rodata) program R X 'outsb dx, byte [rsi]' 'trace' (nopassyo)
+A2   rdx     55f15af5409c      (/home/skirmish/Downloads/trace) (.rodata) program R X 'outsb dx, byte [rsi]' 'trace' (nopassyo)
 A4   r8      0                 0
 A5   r9      25                37 ascii ('%')
      r10     9                 9
      r11     246               582
-     r12     55f15af53a80      (/home/anti/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'
+     r12     55f15af53a80      (/home/skirmish/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'
      r13     7ffe55aa69b0      ([stack]) stack R W 0x1 -->  1
      r14     0                 0
      r15     0                 0
-A1   rsi     55f15af5409c      (/home/anti/Downloads/trace) (.rodata) program R X 'outsb dx, byte [rsi]' 'trace' (nopassyo)
+A1   rsi     55f15af5409c      (/home/skirmish/Downloads/trace) (.rodata) program R X 'outsb dx, byte [rsi]' 'trace' (nopassyo)
 A0   rdi     7ffe55aa68bd      ([stack]) stack R W 0x0 -->  0
 SP   rsp     7ffe55aa6880      ([stack]) stack R W 0xffffffff55aa69c8 -->  -2857735736
-BP   rbp     7ffe55aa68d0      ([stack]) stack R W 0x55f15af53f80 -->  (/home/anti/Downloads/trace) (.text) sym.__libc_csu_init sym.__libc_csu_init program R X 'push r15' 'trace'
-PC   rip     55f15af53ccd      (/home/anti/Downloads/trace) (.text) main program R X 'call 0x55f15af53990' 'trace'
+BP   rbp     7ffe55aa68d0      ([stack]) stack R W 0x55f15af53f80 -->  (/home/skirmish/Downloads/trace) (.text) sym.__libc_csu_init sym.__libc_csu_init program R X 'push r15' 'trace'
+PC   rip     55f15af53ccd      (/home/skirmish/Downloads/trace) (.text) main program R X 'call 0x55f15af53990' 'trace'
      cs      33                51 ascii ('3')
      rflags  212               530
 SN   orax    ffffffffffffffff 
@@ -230,15 +230,15 @@ A4   r8      7ffd823fb462      ([stack]) stack R W 0x3837363534333231 (12345678)
 A5   r9      70                112 ascii ('p')
      r10     0                 0
      r11     7f66d8593840     
-     r12     557f6180ba80      (/home/anti/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'
+     r12     557f6180ba80      (/home/skirmish/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'
      r13     7ffd823fb560      ([stack]) stack R W 0x1 -->  1
      r14     0                 0
      r15     0                 0
 A1   rsi     7ffd823fb46d      ([stack]) stack R W 0x6f79737361706f6e (nopassyo) -->  ascii ('n')
 A0   rdi     557f62831380     
 SP   rsp     7ffd823fb430      ([stack]) stack R W 0xffffffff823fb578 -->  -2109753992
-BP   rbp     7ffd823fb480      ([stack]) stack R W 0x557f6180bf80 -->  (/home/anti/Downloads/trace) (.text) sym.__libc_csu_init sym.__libc_csu_init program R X 'push r15' 'trace'
-PC   rip      557f6180bd0e       (/home/anti/Downloads/trace) (.text) main program R X 'mov rdi, rax' 'trace'
+BP   rbp     7ffd823fb480      ([stack]) stack R W 0x557f6180bf80 -->  (/home/skirmish/Downloads/trace) (.text) sym.__libc_csu_init sym.__libc_csu_init program R X 'push r15' 'trace'
+PC   rip      557f6180bd0e       (/home/skirmish/Downloads/trace) (.text) main program R X 'mov rdi, rax' 'trace'
      cs      33                51 ascii ('3')
      rflags  202               514
 SN   orax    ffffffffffffffff 
@@ -526,7 +526,7 @@ A4   r8      0                 0
 A5   r9      7fffffff          2147483647
      r10     9                 9
      r11     246               582
-     r12     55fc0a6d9a80      (/home/anti/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'
+     r12     55fc0a6d9a80      (/home/skirmish/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'
      r13     7ffe48f25d00      ([stack]) stack R W 0x1 -->  1
      r14     0                 0
      r15     0                 0
@@ -616,7 +616,7 @@ A4   r8      0                 0
 A5   r9      7fffffff          2147483647                                                                                                                                                     
      r10     a                 10                                                                                                                                                             
      r11     246               582                                                                                                                                                            
-     r12     55f2849d5a80      (/home/anti/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'                                                                                 
+     r12     55f2849d5a80      (/home/skirmish/Downloads/trace) (.text) entry0 program R X 'xor ebp, ebp' 'trace'                                                                                 
      r13     7ffc3db92a60      ([stack]) stack R W 0x1 -->  1                                                                                                                                 
      r14     0                 0                                                                                                                                                              
      r15     0                 0                                                                                                                                                              
