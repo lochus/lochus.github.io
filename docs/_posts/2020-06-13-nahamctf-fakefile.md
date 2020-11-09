@@ -6,10 +6,12 @@ tags:
   - NahamCTF
 ---
 
-"Wait... where is the flag?
+*Wait... where is the flag?*
 
-Connect here:
-nc jh2i.com 50026"
+*Connect here:*
+*nc jh2i.com 50026*
+
+---
 
 For this challenge, we're given a shell when we connect to the netcat listener. There's nothing obviously out of place, aside from an extra .. directory in /home/user/.
 

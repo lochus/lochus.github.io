@@ -6,10 +6,12 @@ tags:
   - NahamCTF
 ---
 
-"There is some interesting stuff on this website. Or at least, I thought there was...
+"There is some interesting stuff on this website. Or at least, I thought there was...*
 
-Connect here:
-https://apporima.com/"
+*Connect here:*
+*https://apporima.com/*
+
+---
 
 Visiting this website doesn't show us anything interesting, but if we take a look at the hint it's giving us, we see that we need to look at an older version of the website. 
 

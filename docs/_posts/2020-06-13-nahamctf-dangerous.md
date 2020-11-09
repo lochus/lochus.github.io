@@ -6,10 +6,12 @@ tags:
   - NahamCTF
 ---
 
-"Hey! Listen!
+*Hey! Listen!*
 
-Connect here:
-nc jh2i.com 50011"
+*Connect here:*
+*nc jh2i.com 50011*
+
+---
 
 For this challenge, we're given a binary called "dangerous". It appears to be stripped, as analyzing it with radare2 doesn't give us many functions to call. 
 

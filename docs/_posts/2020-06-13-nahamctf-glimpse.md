@@ -6,10 +6,12 @@ tags:
   - NahamCTF
 ---
 
-"There's not a lot to work with on this server. But there is something...
+*There's not a lot to work with on this server. But there is something...*
 
-Connect here:
-ssh -p 50027 user@jh2i.com # password is 'userpass'"
+*Connect here:*
+*ssh -p 50027 user@jh2i.com # password is 'userpass'*
+
+---
 
 For this challenge, we're given a restricted shell that is unable to change directories. Looking around the system, we see that Gimp is installed, meaning we can break out of this restricted shell:
 

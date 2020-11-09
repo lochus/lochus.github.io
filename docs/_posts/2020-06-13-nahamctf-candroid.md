@@ -6,9 +6,11 @@ tags:
   - NahamCTF
 ---
 
-"I think I can, I think I can!
+*I think I can, I think I can!*
 
-Download the file below."
+*Download the file below.*
+
+---
 
 For this challenge we're given an apkfile called candroid.apk. We'll unpack this file using apktool:
 

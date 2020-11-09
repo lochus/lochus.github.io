@@ -10,6 +10,7 @@ tags:
 
 *~Quintec#0689*
 
+---
 
 For this challenge, we're given two files, vaporwave2a.flac and vaporwave2b.flag. Both files sound like the exact same song, so we'll use Audacity to find any hidden message:
 

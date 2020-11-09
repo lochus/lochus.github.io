@@ -6,13 +6,14 @@ tags:
   - NahamCTF
 ---
 
-"BooOooOooOOoo! This spooOoOooky client-side cooOoOode sure is scary! What spoOoOoOoky secrets does he have in stooOoOoOore??
+*BooOooOooOOoo! This spooOoOooky client-side cooOoOode sure is scary! What spoOoOoOoky secrets does he have in stooOoOoOore??*
 
-Connect here:
-http://jh2i.com:50003
+*Connect here:*
+*http://jh2i.com:50003*
 
-Note, this flag is not in the usual format."
+*Note, this flag is not in the usual format.*
 
+---
 
 Visiting this page gives us pictures of ghosts. We can open "Inspect element" by right clicking on the page, go to the debugger, look at jquery.jscroll2.js and click pretty print at the bottom to find the flag.
 

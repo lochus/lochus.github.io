@@ -6,9 +6,11 @@ tags:
   - NahamCTF
 ---
 
-"Here's a simple Android app. Can you get the flag?
+*Here's a simple Android app. Can you get the flag?*
 
-Download the file below."
+*Download the file below.*
+
+---
 
 For this challenge, we're given a file called "simple-app.apk".
 

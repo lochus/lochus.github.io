@@ -6,7 +6,9 @@ tags:
   - NahamCTF  
 ---
 
-"We are so restricted here in Alkatraz. Can you help us break out?"
+*We are so restricted here in Alkatraz. Can you help us break out?*
+
+---
 
 For this challenge, we're given a very restricted shell when we connect the the nc listener. Most commands don't work, and we can't escape the shell by running bash, or sh. We can, however, use basic built-in bash commands to read the flag:
 

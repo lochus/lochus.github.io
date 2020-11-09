@@ -6,7 +6,9 @@ tags:
   - NahamCTF
 ---
 
-"This time we have a username. Can you track down NahamConTron?"
+*This time we have a username. Can you track down NahamConTron?*
+
+---
 
 For this challenge, we'll use the following website to search all platforms for this username:
 

@@ -6,12 +6,14 @@ tags:
   - NahamCTF
 ---
 
-"Have you seen any aliens lately? Let us know!
+*Have you seen any aliens lately? Let us know!*
 
-The flag is at the start of the solar system.
+*The flag is at the start of the solar system.*
 
-Connect here:
-http://jh2i.com:50004"
+*Connect here:*
+*http://jh2i.com:50004*
+
+---
 
 For this challenge, we're given a website with a blank box, and submit button, and a message:
 

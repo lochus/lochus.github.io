@@ -6,10 +6,12 @@ tags:
   - NahamCTF
 ---
 
-"Ick, this salad doesn't taste too good!
+*Ick, this salad doesn't taste too good!*
 
-Connect with:
-nc jh2i.com 50034"
+*Connect with:*
+*nc jh2i.com 50034*
+
+---
 
 For this challenge, when we connect to the nc server, we get the following line:
 

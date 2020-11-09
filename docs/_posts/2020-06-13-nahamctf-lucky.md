@@ -6,9 +6,11 @@ tags:
   - NahamCTF
 ---
 
-"Oooh, an encrypted filesystem, lucky you!
+*Oooh, an encrypted filesystem, lucky you!*
 
-Download the file below."
+*Download the file below.*
+
+---
 
 For this challenge, we're given a LUKS encrypted image. To bruteforce the password needed to decrypt it, we'll grab bruteforce-luks from the following Github repo:
 

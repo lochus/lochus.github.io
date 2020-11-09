@@ -18,6 +18,7 @@ tags:
 
 *~Klanec#3100*
 
+---
 
 For this challenge, we're given a data.7z file, containing a file called "data". Running file against this file shows us that it's the following file type:
 

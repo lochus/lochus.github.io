@@ -6,10 +6,12 @@ tags:
   - NahamCTF  
 ---
 
-"Help! I'm trapped!
+*Help! I'm trapped!*
 
-Connect here:
-nc jh2i.com 50019"
+*Connect here:*
+*nc jh2i.com 50019*
+
+---
 
 For this challenge, we're given a bash shell without job control when we connect to the netcat listener. When running any command, we receive the following message:
 

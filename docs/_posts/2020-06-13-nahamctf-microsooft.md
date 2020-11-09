@@ -6,9 +6,11 @@ tags:
   - NahamCTF
 ---
 
-"We have to use Microsoft Word at the office!? Oof...
+*We have to use Microsoft Word at the office!? Oof...*
 
-Download the file below."
+*Download the file below.*
+
+---
 
 For this challenge, we're given a .docx file. We'll download the file, unzip it, and run grep -lr on it to see if we can find the flag:
 
