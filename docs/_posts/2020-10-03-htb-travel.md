@@ -10,8 +10,6 @@ tags:
 
 # Travel
 
-[[toc]]
-
 ## Initial Enumeration
 
 

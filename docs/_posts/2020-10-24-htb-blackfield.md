@@ -10,8 +10,6 @@ tags:
 
 # Blackfield
 
-[[toc]]
-
 ## Initial Enumeration
 
 We can see that a SMB share is open. If we connect to the smbshare with Guest:*blank* we can list the shares. The interesting share here is profiles$

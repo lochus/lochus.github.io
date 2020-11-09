@@ -10,8 +10,6 @@ tags:
 
 # Control
 
-[[toc]]
-
 ## Website Enumeration
 
 In the source code of the index page for http://control.htb/ we see the following message:

@@ -10,8 +10,6 @@ tags:
 
 # Admirer
 
-[[toc]]
-
 ## Nmap Scan
 
 ```

