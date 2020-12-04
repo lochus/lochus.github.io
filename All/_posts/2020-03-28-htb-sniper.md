@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Sniper](https://miro.medium.com/max/3614/1*VtTxWloeoQG79y4TBpNfcA.jpeg)
+![Sniper](https://www.hackthebox.eu/storage/avatars/6f9b9e9836e3374e14b57096f35caf57.png)
 
 # Sniper
 
