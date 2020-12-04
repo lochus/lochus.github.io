@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Travel](https://i.ibb.co/J2s2ynz/Travel.png)
+![Travel](/assets/images/Travel.PNG)
 
 # Travel
 
