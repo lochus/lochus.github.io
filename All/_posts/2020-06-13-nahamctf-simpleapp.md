@@ -14,7 +14,7 @@ tags:
 
 For this challenge, we're given a file called "simple-app.apk".
 
-This challenge can be completed by unpacking the apk with apktool, and grepping through it for flag{:
+This challenge can be completed by unpacking the apk with apktool, and grepping through it for "flag{":
 
 ```
 apktool d simple-app.apk
