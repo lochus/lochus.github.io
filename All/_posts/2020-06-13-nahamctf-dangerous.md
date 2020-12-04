@@ -19,8 +19,8 @@ Running the binary prompts us for our name, then tells us to "Take this":
 
 ```
 What's your name?
-anti
-It's dangerous to go alone! Take this, anti
+username
+It's dangerous to go alone! Take this, username
 
          █   
         ███  
@@ -103,7 +103,7 @@ Here, we want to CTRL+C so that we can step into the syscall, without it continu
 ```
 *What's your name?*
 [0x7ffff7ed85ce]> ds
-anti
+username
 [0x7ffff7ed85ce]>
 ```
 
