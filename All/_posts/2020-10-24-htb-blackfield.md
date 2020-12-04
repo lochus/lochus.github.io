@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Blackfield](https://i.ibb.co/RSnBf45/Blackfield.png)
+![Blackfield](/assets/images/Blackfield.PNG)
 
 # Blackfield
 

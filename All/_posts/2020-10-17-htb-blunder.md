@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Blunder](https://i.ibb.co/vzVkqtF/Blunder.png)
+![Blunder](/assets/images/Blunder.PNG)
 
 # Blunder
 

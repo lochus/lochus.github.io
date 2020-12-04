@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Admirer](https://i.ibb.co/VLR5T4P/Admirer.png)
+![Admirer](/assets/images/Admirer.PNG)
 
 # Admirer
 

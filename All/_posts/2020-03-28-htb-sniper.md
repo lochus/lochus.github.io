@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Sniper](https://www.hackthebox.eu/storage/avatars/6f9b9e9836e3374e14b57096f35caf57.png)
+![Sniper](/assets/images/Sniper.PNG)
 
 # Sniper
 

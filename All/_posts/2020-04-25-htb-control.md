@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Control](https://miro.medium.com/max/2866/0*VVgNDHYF1kz8pziK)
+![Control](/assets/images/Control.PNG)
 
 # Control
 

@@ -6,7 +6,7 @@ tags:
   - HackTheBox
 ---
 
-![Registry](https://i.ibb.co/wBf0KtD/Capture.png)
+![Registry](/assets/images/Registry.PNG)
 
 # Registry
 
