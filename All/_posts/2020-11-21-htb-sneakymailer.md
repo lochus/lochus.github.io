@@ -15,7 +15,6 @@ tags:
 ```
 Nmap scan report for 10.10.10.197
 Host is up, received user-set (0.038s latency).
-Scanned at 2020-07-13 13:03:55 CDT for 43s
 Not shown: 993 closed ports
 Reason: 993 resets
 PORT     STATE SERVICE  REASON         VERSION

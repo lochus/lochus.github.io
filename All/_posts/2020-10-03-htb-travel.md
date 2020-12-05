@@ -10,6 +10,20 @@ tags:
 
 # Travel
 
+## Nmap Scan
+
+```
+Nmap scan report for 10.10.10.189
+Host is up (0.038s latency).
+Not shown: 997 closed ports
+PORT    STATE SERVICE
+22/tcp  open  ssh
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.95 seconds
+```
+
 ## Initial Enumeration
 
 

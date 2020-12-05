@@ -10,6 +10,19 @@ tags:
 
 # Blunder
 
+## Nmap Scan
+
+```
+Nmap scan report for 10.10.10.191
+Host is up (0.047s latency).
+Not shown: 65533 filtered ports
+PORT   STATE  SERVICE
+21/tcp closed ftp
+80/tcp open   http
+
+Nmap done: 1 IP address (1 host up) scanned in 93.03 seconds
+```
+
 ## Website Enumeration
 
 A quick fuzz of the websites shows that the following page exists:

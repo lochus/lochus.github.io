@@ -10,6 +10,20 @@ tags:
 
 # Control
 
+## Nmap Scan
+
+```
+Nmap scan report for 10.10.10.167
+Host is up (0.081s latency).
+Not shown: 997 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+135/tcp  open  msrpc
+3306/tcp open  mysql
+
+Nmap done: 1 IP address (1 host up) scanned in 26.77 seconds
+```
+
 ## Website Enumeration
 
 In the source code of the index page for http://control.htb/ we see the following message:

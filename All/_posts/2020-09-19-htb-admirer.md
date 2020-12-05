@@ -13,8 +13,6 @@ tags:
 ## Nmap Scan
 
 ```
-Starting Nmap 7.80 ( https://nmap.org ) at 2020-05-04 07:48 CDT          
-Warning: 10.10.10.187 giving up on port because retransmission cap hit (0).
 Nmap scan report for 10.10.10.187          
 Host is up (0.039s latency).                              
 Not shown: 51173 closed ports, 14359 filtered ports

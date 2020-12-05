@@ -10,6 +10,24 @@ tags:
 
 # Blackfield
 
+## Nmap Scan
+
+```
+Nmap scan report for 10.10.10.192
+Host is up (0.045s latency).
+Not shown: 993 filtered ports
+PORT     STATE SERVICE
+53/tcp   open  domain
+88/tcp   open  kerberos-sec
+135/tcp  open  msrpc
+389/tcp  open  ldap
+445/tcp  open  microsoft-ds
+593/tcp  open  http-rpc-epmap
+3268/tcp open  globalcatLDAP
+
+Nmap done: 1 IP address (1 host up) scanned in 4.71 seconds
+```
+
 ## Initial Enumeration
 
 We can see that a SMB share is open. If we connect to the smbshare with Guest:*blank* we can list the shares. The interesting share here is profiles$

